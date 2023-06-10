@@ -6,7 +6,7 @@
 
 ⚡ My biggest achievement:
 
-  -[commit](https://github.com/Trusted-AI/adversarial-robustness-toolbox/pull/1063#pullrequestreview-654910306) to IBM's adversarial-robustness-toolbox (ART) project
+  - [commit](https://github.com/Trusted-AI/adversarial-robustness-toolbox/pull/1063#pullrequestreview-654910306) to IBM's adversarial-robustness-toolbox (ART) project
   
   - defending mu engineering thesis 
 
